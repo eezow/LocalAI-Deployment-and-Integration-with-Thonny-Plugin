@@ -20,7 +20,7 @@ from tkinter.messagebox import showinfo, showerror
 # - This project is distributed as-is, without any warranties or guarantees.
 # - Use at your own risk, and ensure compliance with applicable laws and policies.
 # 
-# For more information, visit [Link to Your GitHub Repository].
+# For more information, visit https://github.com/eezow/.
 
 # LocalAI API URL
 LOCALAI_URL = "http://localhost:8080/v1/completions"
