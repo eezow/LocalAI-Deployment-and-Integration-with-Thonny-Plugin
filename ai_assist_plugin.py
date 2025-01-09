@@ -4,6 +4,23 @@ import requests
 from thonny import get_workbench
 from tkinter import simpledialog
 from tkinter.messagebox import showinfo, showerror
+# ==========================================================
+# AI Assistant Plugin for Thonny
+# 
+# Copyright (C) 2025 CALEB L. MATHEBULA
+# 
+# This software is provided under the CALEB L. MATHEBULA - Open Source License. 
+# By using or modifying this code, you agree to the terms of the license. 
+# 
+# Respect for Original Work:
+# - Please credit the original author(s) when sharing or modifying this project.
+# - Do not remove or alter this notice in any derivative works.
+# 
+# Disclaimer:
+# - This project is distributed as-is, without any warranties or guarantees.
+# - Use at your own risk, and ensure compliance with applicable laws and policies.
+# 
+# For more information, visit [Link to Your GitHub Repository].
 
 # LocalAI API URL
 LOCALAI_URL = "http://localhost:8080/v1/completions"
